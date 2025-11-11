@@ -1,0 +1,41 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.bsc
+*.sbr
+*.pdb
+*.obj
+*.ilk
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.VC.opendb
+
+# Build artifacts
+bin/
+obj/
+Debug/
+Release/
+x64/
+Win32/
+out/ # For CMake projects
+
+# User-specific files
+*.opendb
+*.vcxproj.user
+
+# NuGet packages
+packages/
+
+# Temporary files
+*.~
+*.tmp
+*.bak
+*.old
+
+# Resharper
+*.DotSettings
